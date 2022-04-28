@@ -19,6 +19,6 @@ o A web page called index.html which displays the image - e.g. using <img> tag
 ## 4) Launch browser and display both URLs.
 Launchs a web browser and opens both EC2 and your S3 web pages
 
-## 6) Monitoring
+## 5) Monitoring
 A bash script called monitor.sh that runs some sample terminal
 commands that carry out monitoring
