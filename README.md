@@ -3,7 +3,7 @@ Python 3 program to automate the process of  creating, launching and monitoring 
 
 # The Script does the following
 
-## 1) Launchs an EC2 instance
+## 1) Launch an EC2 instance
 Launches a new Amazon EC2 nano instance using Boto3 APO library.
 
 ## 2) Configure appropriate instance settings
